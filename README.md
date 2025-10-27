@@ -19,26 +19,6 @@
 
 I’m passionate about **data-driven decision-making**, **AI modeling**, and **building digital products** that create real-world value.  
 This portfolio collects my academic and personal projects demonstrating analytical thinking, programming skills, and product development.
-
----
-
-## 🧩 Repository Structure
-
-```
-
-📁 Data_Analytics_Portfolio
-┣ 📂 fpt_internship
-┃ ┣ 📂 California Housing Prices
-┃ ┣ 📂 Final Project_Weather Type Classification
-┃ ┣ 📂 Heart disease prediction using machine learning models
-┃ ┣ 📂 MECFS vs Depression Classification Dataset
-┃ ┗ 📂 MoodScore prediction using Machine Learning
-┣ 📂 Project_onclass
-┃ ┗ 📂 churn_in_Telcom_Using AI python
-┣ 📂 web_mocthienlong
-┗ 📄 README.md
-
-
 ## 🚀 Project Categories
 
 ### 🧠 1. FPT Internship – Machine Learning Projects
