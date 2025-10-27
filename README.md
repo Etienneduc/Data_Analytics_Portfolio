@@ -7,7 +7,6 @@
 > A comprehensive showcase of my data analytics, AI, and web development projects.  
 > Each folder represents a unique learning journey — from academic data science exercises to real-world web development products.
 
----
 
 ## 👨‍💻 About Me
 
@@ -39,9 +38,6 @@ This portfolio collects my academic and personal projects demonstrating analytic
 ┣ 📂 web_mocthienlong
 ┗ 📄 README.md
 
-````
-
----
 
 ## 🚀 Project Categories
 
@@ -137,8 +133,3 @@ npm run dev
 > 📧 [dhuy7081@gmail.com](mailto:dhuy7081@gmail.com)
 > 🌐 [github.com/Etienneduc](https://github.com/Etienneduc)
 > 📍 Hanoi, Vietnam
-
----
-
-⭐ *If you find this portfolio interesting, feel free to star 🌟 or fork it to explore the projects further!*
-
