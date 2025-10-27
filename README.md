@@ -1,9 +1,3 @@
-Tuyệt vời 🌟 — dưới đây là **README.md tổng thể hoàn chỉnh cho toàn bộ repo `Data_Analytics_Portfolio`**, viết theo phong cách **portfolio chuyên nghiệp** (chuẩn GitHub showcase cho sinh viên IT/Data Analyst).
-Bạn chỉ cần copy toàn bộ nội dung này vào file
-📄 `C:\Users\admin\Downloads\INTERNSHIP\Data_Analytics_Portfolio\README.md`
-hoặc tạo file `README.md` trực tiếp trên GitHub và dán vào.
-
----
 
 ## 📘 **README.md – Data_Analytics_Portfolio**
 
