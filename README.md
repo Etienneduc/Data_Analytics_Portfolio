@@ -1,115 +1,109 @@
+# 📊 DATA ANALYTICS PORTFOLIO – VŨ MINH ĐỨC
 
-## 📘 **README.md – Data_Analytics_Portfolio**
+> 🚀 A comprehensive portfolio showcasing my work in **Data Analytics, Machine Learning, and Full-Stack Web Development**.  
+> Each folder represents a unique learning journey — from academic assignments to internship projects and professional web applications.
 
-```markdown
-# 📊 Data Analytics Portfolio – Vũ Minh Đức
+---
 
-> A comprehensive showcase of my data analytics, AI, and web development projects.  
-> Each folder represents a unique learning journey — from academic data science exercises to real-world web development products.
+## 👨‍💻 ABOUT ME
 
+**Name:** Vũ Minh Đức  
+🎓 Student – Faculty of Information Technology, **National Economics University (NEU)**  
+📍 Hanoi, Vietnam  
+📧 [dhuy7081@gmail.com](mailto:dhuy7081@gmail.com)  
+🔗 [GitHub – Etienneduc](https://github.com/Etienneduc)
 
-## 👨‍💻 About Me
+💡 I’m passionate about **data-driven decision-making**, **AI applications**, and **digital innovation**.  
+I enjoy turning complex data into insights and building systems that connect analysis with real-world solutions.
 
-🎓 **Name:** Vũ Minh Đức  
-📍 **Location:** Hanoi, Vietnam  
-🎓 **Major:** Information Technology – National Economics University (NEU)  
-💼 **Career Goal:** Become a Data Analyst & AI Developer with strong full-stack knowledge.  
-📧 **Email:** dhuy7081@gmail.com  
-🔗 **GitHub:** [Etienneduc](https://github.com/Etienneduc)
+---
 
-I’m passionate about **data-driven decision-making**, **AI modeling**, and **building digital products** that create real-world value.  
-This portfolio collects my academic and personal projects demonstrating analytical thinking, programming skills, and product development.
-## 🚀 Project Categories
+## 🧱 REPOSITORY STRUCTURE
+```
+📁 Data_Analytics_Portfolio
+ ┣ 📂 fpt_internship
+ ┃ ┣ 📂 California Housing Prices
+ ┃ ┣ 📂 Final Project_Weather Type Classification
+ ┃ ┣ 📂 Heart disease prediction using machine learning models
+ ┃ ┣ 📂 MECFS vs Depression Classification Dataset
+ ┃ ┗ 📂 MoodScore prediction using Machine Learning
+ ┣ 📂 Project_onclass
+ ┃ ┗ 📂 churn_in_Telcom_Using AI python
+ ┣ 📂 web_mocthienlong
+ ┗ 📄 README.md
+```
 
-### 🧠 1. FPT Internship – Machine Learning Projects
-> 📍 `fpt_internship/`  
+---
+
+## 💼 PROJECT OVERVIEW
+
+### 🧠 1. FPT INTERNSHIP – MACHINE LEARNING PROJECTS
+**Path:** `fpt_internship/`  
 A collection of data-driven projects developed during my internship at **FPT Software**.  
-Includes supervised learning, feature engineering, and visualization tasks using **Python, Pandas, Matplotlib, and Scikit-learn**.
+Focus on supervised learning, feature engineering, and visualization using Python.
 
 **Highlights**
-- 🏠 *California Housing Price Prediction* – Linear Regression & feature correlation analysis.  
-- 🌦️ *Weather Type Classification* – SVM, Random Forest classification.  
-- ❤️ *Heart Disease Prediction* – Logistic regression, model evaluation metrics.  
-- 🧠 *MECFS vs Depression Classification* – Deep learning model fine-tuning.  
-- 😊 *MoodScore Prediction* – Multivariate regression with visualization.
+- 🏠 *California Housing Prices* → Linear Regression & correlation analysis.  
+- 🌦️ *Weather Type Classification* → Decision Trees, Random Forest, and SVM.  
+- ❤️ *Heart Disease Prediction* → Logistic Regression, ROC-AUC metrics.  
+- 🧠 *MECFS vs Depression Classification* → Neural network fine-tuning with TensorFlow.  
+- 😊 *MoodScore Prediction* → Multivariate regression & feature importance visualization.
+
+🛠 **Tech:** Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
 
 ---
 
-### 📊 2. Project_onclass – AI in Business Applications
-> 📍 `Project_onclass/churn_in_Telcom_Using AI python/`  
-A telecom churn prediction system using machine learning.  
-The model identifies customers likely to leave the service provider using **classification models** such as Logistic Regression, Decision Tree, and XGBoost.
+### 📊 2. PROJECT_ONCLASS – AI IN BUSINESS APPLICATIONS
+**Path:** `Project_onclass/churn_in_Telcom_Using AI python/`  
+A **Telecom Churn Prediction** system that identifies customers likely to discontinue services.
 
-**Key Features**
-- Data preprocessing & EDA with Pandas, Seaborn.  
-- Feature importance analysis.  
-- Model comparison using ROC-AUC and accuracy metrics.
+**Key Processes**
+- Data Cleaning, Feature Engineering & EDA  
+- Model comparison: Logistic Regression, Decision Tree, Random Forest, XGBoost  
+- Evaluation using Accuracy, Precision, Recall & ROC-AUC  
 
----
-
-### 🌐 3. web_mocthienlong – Full-Stack E-Commerce Website
-> 📍 `web_mocthienlong/`  
-**Includes**
-- 🛒 Shopping cart, authentication, admin dashboard.  
-- 🧭 RESTful API for CRUD operations.  
-- 🎨 Modern responsive UI with Tailwind CSS + MUI.  
-- ⚙️ Backend: Node.js + Express + MongoDB Atlas.
+📈 **Goal:** Provide insights for customer retention strategies.  
+🧰 **Tools:** Python, Pandas, Scikit-learn, Seaborn, Matplotlib
 
 ---
 
-## 🧰 Tech Stack Summary
+### 🌐 3. WEB_MOCTHIENLONG – FULL-STACK E-COMMERCE WEBSITE
+**Path:** `web_mocthienlong/`  
+A modern **MERN-stack** web application built for the handcrafted jewelry brand *Mộc Thiên Long*.
 
-| Domain | Tools & Technologies |
-|--------|-----------------------|
-| **Languages** | Python, JavaScript, HTML, CSS |
-| **Data Analysis** | Pandas, NumPy, Matplotlib, Seaborn |
-| **Machine Learning** | Scikit-learn, TensorFlow, XGBoost |
-| **Databases** | MongoDB, SQLserver |
-| **Version Control** | Git, GitHub |
+**Main Features**
+- 🛒 Product catalog, cart, and checkout  
+- 🔐 Authentication system 
+- 🧭 Admin Dashboard for order & inventory management  
+- 🎨 Responsive UI using CSS + Material UI  
+---
+
+
+## 🧠 LEARNING OUTCOMES
+
+- Data preprocessing, feature engineering & predictive modeling.  
+- Visualization & storytelling through data.  
+- RESTful API development and state management in web apps.  
+- End-to-end project lifecycle management.  
+- Strengthened teamwork, documentation, and analytical thinking.
 
 ---
 
-## ⚙️ How to Run Locally
+## ⚡ HOW TO RUN LOCALLY
 
 ```bash
-# 1. Clone the repository
+# 1️⃣ Clone repository
 git clone https://github.com/Etienneduc/Data_Analytics_Portfolio.git
 
-# 2. Navigate to a project folder
-cd Data_Analytics_Portfolio/fpt_internship/California\ Housing\ Prices
+# 2️⃣ Navigate to a project folder
+cd Data_Analytics_Portfolio/fpt_internship/Heart\ disease\ prediction\ using\ machine\ learning\ models
 
-# 3. (For Python projects)
+# 3️⃣ Run Python projects
 pip install -r requirements.txt
 python main.py
 
-# 4. (For MERN web project)
+# 4️⃣ Run MERN web project
 cd web_mocthienlong
 npm install
 npm run dev
-````
 
----
-
-## 📈 Learning Outcomes
-
-* Hands-on experience in **data cleaning, modeling, and visualization**.
-* Building and deploying **full-stack web applications**.
-* Strengthening logical thinking, teamwork, and project documentation.
-* Applying AI in real-world business problems.
-
----
-
-## 🌟 Future Development
-
-* Add deployment version for `web_mocthienlong` (Render/Vercel).
-* Add Power BI dashboards for internship datasets.
-* Integrate GitHub Actions for auto testing.
-
----
-
-## 💬 Contact
-
-> **Vũ Minh Đức**
-> 📧 [dhuy7081@gmail.com](mailto:dhuy7081@gmail.com)
-> 🌐 [github.com/Etienneduc](https://github.com/Etienneduc)
-> 📍 Hanoi, Vietnam
